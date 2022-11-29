@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+    
+          <record model="ir.ui.view" id="post_install_wizard_form">
+            <field name="name">direccion_mx.postinstall.form</field>
+            <field name="model">direccion_mx.postinstall</field>
+            <field name="arch" type="xml">
+              
+
+                <form string="Opciones de Instalacion direccion_mx">
+                   <separator string="Opciones de Instalacion" colspan="4"/>
+                   <group>
+                       <group>
+                          <field name="colonias"/>                   
+                       </group>
+                       <group>
+                          <field name="actualizar"/>                   
+                       </group>
+                   </group>
+                   <separator colspan="4"/>
+                    <footer>
+                        <button name="execute" type="object" string="Continue" class="btn-primary"/>
+                        <button string="Skip" class="btn-default" special="cancel" />
+                    </footer>
+                </form>
+ 
+            </field>
+        </record>
+    
+        <record id="action_post_install_direccion_mx" model="ir.actions.act_window">
+            <field name="name">Inicializacion de tablas</field>
+            <field name="res_model">direccion_mx.postinstall</field>
+            <field name="type">ir.actions.act_window</field>
+            <field name="view_id" ref="post_install_wizard_form"/>
+            <field name="target">new</field>
+        </record>
+
+      <record id="direccion_mx_installer_todo" model="ir.actions.todo">
+            <field name="action_id" ref="action_post_install_direccion_mx"/>
+            <field name="sequence">1</field>
+            <field name="state">open</field>
+        </record>
+        
+    </data>
+</odoo>    

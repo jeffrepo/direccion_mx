@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+
+
+        <!-- Ciudad -->
+        <record id="direccion_mx_view_country_state_ciudad_tree" model="ir.ui.view">
+            <field name="name">direccion_mx_res.country.state.ciudad.tree</field>
+            <field name="model">res.country.state.ciudad</field>
+            <field name="arch" type="xml">
+                <tree string="Ciudad">
+                    <field name="name"/>
+                    <field name="clave_sat"/>
+                </tree>
+            </field>
+        </record>
+        <record id="direccion_mx_view_country_state_ciudad_form" model="ir.ui.view">
+            <field name="name">direccion_mx_res.country.state.ciudad.form</field>
+            <field name="model">res.country.state.ciudad</field>
+            <field name="arch" type="xml">
+                <form string="Ciudad">
+                    <header>
+                    </header>
+                    <sheet>
+                        <group>
+                            <field name="name"/>
+                            <field name="municipio_ids"/>
+                            <field name="clave_sat"/>
+                        </group>
+                    </sheet>
+                </form>
+            </field>
+        </record>
+        <record id="direccion_mx_action_country_state_ciudad" model="ir.actions.act_window">
+            <field name="name">Ciudad</field>
+            <field name="type">ir.actions.act_window</field>
+            <field name="res_model">res.country.state.ciudad</field>
+            <field name="view_id" ref="direccion_mx_view_country_state_ciudad_tree"/>
+        </record>
+        <menuitem action="direccion_mx_action_country_state_ciudad" 
+            id="direccion_mx_menu_country_state_ciudad_partner" 
+            parent="contacts.menu_localisation"
+            groups=""
+            sequence="3" />
+
+
+        <!-- Municipio -->
+        <record id="direccion_mx_view_country_state_municipio_tree" model="ir.ui.view">
+            <field name="name">direccion_mx_res.country.state.municipio.tree</field>
+            <field name="model">res.country.state.municipio</field>
+            <field name="arch" type="xml">
+                <tree string="Municipio">
+                    <field name="name"/>
+                    <field name="ciudad_id"/>
+                    <field name="state_id"/>
+                    <field name="clave_sat"/>
+                </tree>
+            </field>
+        </record>
+        <record id="direccion_mx_view_country_state_municipio_form" model="ir.ui.view">
+            <field name="name">direccion_mx_res.country.state.municipio.form</field>
+            <field name="model">res.country.state.municipio</field>
+            <field name="arch" type="xml">
+                <form string="Municipio">
+                    <header>
+                    </header>
+                    <sheet>
+                        <group>
+                            <field name="name"/>
+                            <field name="state_id" options='{"no_open": True}'/>
+                            <field name="ciudad_id" options='{"no_open": True}'/>                            
+                            <field name="clave_sat"/>
+                        </group>
+                    </sheet>
+                </form>
+            </field>
+        </record>
+        <record id="direccion_mx_action_country_state_municipio" model="ir.actions.act_window">
+            <field name="name">Municipio</field>
+            <field name="type">ir.actions.act_window</field>
+            <field name="res_model">res.country.state.municipio</field>
+            <field name="view_id" ref="direccion_mx_view_country_state_municipio_tree"/>
+        </record>
+        <menuitem action="direccion_mx_action_country_state_municipio" 
+            id="direccion_mx_menu_country_state_municipio_partner" 
+            parent="contacts.menu_localisation"
+            groups=""
+            sequence="4" />
+
+        <!-- Colonia -->
+        <record id="direccion_mx_view_country_state_municipio_colonia_tree" model="ir.ui.view">
+            <field name="name">direccion_mx_res.country.state.municipio.colonia.tree</field>
+            <field name="model">res.country.state.municipio.colonia</field>
+            <field name="arch" type="xml">
+                <tree string="Colonia">
+                    <field name="name"/>                    
+                    <field name="municipio_id"/>
+                    <field name="cp" />
+                    <field name="clave_sat"/>
+                </tree>
+            </field>
+        </record>
+        <record id="direccion_mx_view_country_state_municipio_colonia_form" model="ir.ui.view">
+            <field name="name">direccion_mx_res.country.state.municipio.colonia.form</field>
+            <field name="model">res.country.state.municipio.colonia</field>
+            <field name="arch" type="xml">
+                <form string="Colonia">
+                    <header>
+                    </header>
+                    <sheet>
+                        <group>
+                            <field name="name"/>
+                            <field name="municipio_id" options='{"no_open": True}'/>
+                            <field name="cp" />
+                            <field name="clave_sat"/>
+                        </group>
+                    </sheet>
+                </form>
+            </field>
+        </record>
+        <record id="direccion_mx_action_country_state_municipio_colonia" model="ir.actions.act_window">
+            <field name="name">Colonia</field>
+            <field name="type">ir.actions.act_window</field>
+            <field name="res_model">res.country.state.municipio.colonia</field>
+            <field name="view_id" ref="direccion_mx_view_country_state_municipio_colonia_tree"/>
+        </record>
+        <menuitem action="direccion_mx_action_country_state_municipio_colonia" 
+            id="direccion_mx_menu_country_state_municipio_colonia_partner" 
+            parent="contacts.menu_localisation"
+            groups=""
+            sequence="4" />
+
+    </data>
+</odoo>

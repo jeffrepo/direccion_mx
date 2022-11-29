@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+    
+          <record model="ir.ui.view" id="upload_address_wizard_form">
+            <field name="name">upload.address.wizard.form</field>
+            <field name="model">direccion_mx.wizard</field>
+            <field name="arch" type="xml">
+                <form string="Upload address">
+                    <group>
+                        <p>Se debe proporcionar un archivo csv que tenga los datos en columnas (sin titulos de columna): Id externo del partner, Código Postal, Nombre de la colonia</p>
+                    </group>
+                    <group>
+                        <group>
+                        <field name="datos"/>
+                        </group>
+                        <group>
+                        <field name="error_tolerant"/>
+                        </group>
+                    </group>
+                    <footer>
+                        <button type="special" special="cancel" string="Close" />
+                        <button type="object" name="action_process" string="Upload" />
+                    </footer>
+                </form>
+            </field>
+        </record>
+    
+        <record id="action_upload_address" model="ir.actions.act_window">
+            <field name="name">Subir direcciones</field>
+            <field name="res_model">direccion_mx.wizard</field>
+            <field name="type">ir.actions.act_window</field>
+            <field name="view_id" ref="upload_address_wizard_form"/>
+            <field name="target">new</field>
+        </record>
+      
+        <menuitem action="action_upload_address" 
+                id="menu_upload_address" sequence="10" 
+                parent="contacts.menu_localisation" groups="" />
+             
+      
+        
+    </data>
+</odoo>    

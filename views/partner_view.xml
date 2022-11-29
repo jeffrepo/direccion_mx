@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+
+        <record model="ir.ui.view" id="mx_partner_address_form_inherit">
+            <field name="name">mx.partner.address.form.inherit</field>
+            <field name="model">res.partner</field>
+            <field name="inherit_id" ref="l10n_mx_edi.mx_partner_address_form"/>
+            <field name="arch" type="xml">
+                    <field name="l10n_mx_edi_colony" position="replace">
+                            <field name="l10n_mx_edi_colony" invisible="1"/>
+                            <field name="colonia_id" placeholder="Colonia"/>
+                            <field name="municipio_id" placeholder="Municipio"/>
+                    </field>
+                    <field name="city" position="replace">
+                        <field name="city" placeholder="City" invisible="1"/>
+                        <field name="ciudad_id" placeholder="Ciudad"/>
+                    </field>
+            </field>
+        </record>
+
+        
+    </data>
+</odoo>

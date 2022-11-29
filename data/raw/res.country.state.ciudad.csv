@@ -1,0 +1,646 @@
+id,name,state_id/id
+ciudad_2,Aguascalientes,base.state_mx_ags
+ciudad_8,Asientos,base.state_mx_ags
+ciudad_9,Calvillo,base.state_mx_ags
+ciudad_5,Cosío,base.state_mx_ags
+ciudad_10,Jesús María ,base.state_mx_ags
+ciudad_7,Pabellón de Arteaga,base.state_mx_ags
+ciudad_4,Rincón de Romos,base.state_mx_ags
+ciudad_3,San Francisco de los Romo,base.state_mx_ags
+ciudad_6,Tepezalá,base.state_mx_ags
+ciudad_17,Ensenada,base.state_mx_bc
+ciudad_11,Mexicali,base.state_mx_bc
+ciudad_15,Playas de Rosarito,base.state_mx_bc
+ciudad_16,Rodolfo Sánchez T. (Maneadero),base.state_mx_bc
+ciudad_13,San Felipe,base.state_mx_bc
+ciudad_12,Tecate,base.state_mx_bc
+ciudad_14,Tijuana,base.state_mx_bc
+ciudad_21,Cabo San Lucas,base.state_mx_bcs
+ciudad_22,Ciudad Constitución,base.state_mx_bcs
+ciudad_28,Guerrero Negro,base.state_mx_bcs
+ciudad_25,Heroica Mulegé,base.state_mx_bcs
+ciudad_18,La Paz,base.state_mx_bcs
+ciudad_24,Loreto,base.state_mx_bcs
+ciudad_23,Puerto Adolfo López Mateos,base.state_mx_bcs
+ciudad_26,San Ignacio,base.state_mx_bcs
+ciudad_20,San José del Cabo,base.state_mx_bcs
+ciudad_19,Todos Santos,base.state_mx_bcs
+ciudad_27,Villa Alberto Andrés Alvarado Arámburo,base.state_mx_bcs
+ciudad_38,Calkini,base.state_mx_camp
+ciudad_32,Candelaria,base.state_mx_camp
+ciudad_34,Champotón,base.state_mx_camp
+ciudad_30,Ciudad del Carmen,base.state_mx_camp
+ciudad_33,Escárcega,base.state_mx_camp
+ciudad_36,Hecelchakán,base.state_mx_camp
+ciudad_35,Hopelchén,base.state_mx_camp
+ciudad_37,Pomuch,base.state_mx_camp
+ciudad_31,Sabancuy,base.state_mx_camp
+ciudad_29,San Francisco de Campeche,base.state_mx_camp
+ciudad_96,Bachíniva,base.state_mx_chih
+ciudad_93,Chihuahua,base.state_mx_chih
+ciudad_95,Colonia Anáhuac,base.state_mx_chih
+ciudad_94,Cuauhtémoc,base.state_mx_chih
+ciudad_102,Delicias,base.state_mx_chih
+ciudad_105,Hidalgo del Parral,base.state_mx_chih
+ciudad_106,José Mariano Jiménez,base.state_mx_chih
+ciudad_101,Juan Aldama,base.state_mx_chih
+ciudad_99,Juárez,base.state_mx_chih
+ciudad_98,Madera,base.state_mx_chih
+ciudad_100,Manuel Ojinaga,base.state_mx_chih
+ciudad_97,Nuevo Casas Grandes,base.state_mx_chih
+ciudad_104,Santa Rosalía de Camargo,base.state_mx_chih
+ciudad_103,Saucillo,base.state_mx_chih
+ciudad_72,Acala,base.state_mx_chis
+ciudad_83,Arriaga,base.state_mx_chis
+ciudad_91,Cacahoatán,base.state_mx_chis
+ciudad_70,Chiapa de Corzo,base.state_mx_chis
+ciudad_81,Cintalapa de Figueroa,base.state_mx_chis
+ciudad_77,Comitán de Domínguez,base.state_mx_chis
+ciudad_88,Huixtla,base.state_mx_chis
+ciudad_82,Jiquipilas,base.state_mx_chis
+ciudad_78,Las Margaritas,base.state_mx_chis
+ciudad_80,Las Rosas,base.state_mx_chis
+ciudad_87,Mapastepec,base.state_mx_chis
+ciudad_92,Motozintla de Mendoza,base.state_mx_chis
+ciudad_75,Ocosingo,base.state_mx_chis
+ciudad_69,Ocozocoautla de Espinosa,base.state_mx_chis
+ciudad_76,Palenque,base.state_mx_chis
+ciudad_74,Pichucalco,base.state_mx_chis
+ciudad_86,Pijijiapan,base.state_mx_chis
+ciudad_90,Puerto Madero (San Benito),base.state_mx_chis
+ciudad_73,Reforma,base.state_mx_chis
+ciudad_71,San Cristóbal de las Casas,base.state_mx_chis
+ciudad_89,Tapachula de Córdova y Ordóñez,base.state_mx_chis
+ciudad_85,Tonalá,base.state_mx_chis
+ciudad_68,Tuxtla Gutiérrez,base.state_mx_chis
+ciudad_79,Venustiano Carranza,base.state_mx_chis
+ciudad_84,Villaflores,base.state_mx_chis
+ciudad_66,Ciudad de Armería,base.state_mx_col
+ciudad_67,Ciudad de Villa de Álvarez,base.state_mx_col
+ciudad_63,Colima,base.state_mx_col
+ciudad_65,Manzanillo,base.state_mx_col
+ciudad_64,Tecoman,base.state_mx_col
+ciudad_1,Ciudad de México,base.state_mx_df
+ciudad_108,Canatlán,base.state_mx_dgo
+ciudad_117,Ciudad Lerdo,base.state_mx_dgo
+ciudad_115,El Salto,base.state_mx_dgo
+ciudad_112,Francisco I. Madero,base.state_mx_dgo
+ciudad_116,Gómez Palacio,base.state_mx_dgo
+ciudad_113,Nombre de Dios,base.state_mx_dgo
+ciudad_111,Peñón Blanco,base.state_mx_dgo
+ciudad_109,San Juan del Río del Centauro del Norte,base.state_mx_dgo
+ciudad_118,Santa María del Oro,base.state_mx_dgo
+ciudad_110,Santiago Papasquiaro,base.state_mx_dgo
+ciudad_114,Vicente Guerrero,base.state_mx_dgo
+ciudad_107,Victoria de Durango,base.state_mx_dgo
+ciudad_161,Acapulco de Juárez,base.state_mx_gro
+ciudad_171,Arcelia,base.state_mx_gro
+ciudad_183,Atoyac de Álvarez,base.state_mx_gro
+ciudad_160,Ayutla de los Libres,base.state_mx_gro
+ciudad_194,Azoyú,base.state_mx_gro
+ciudad_169,Buenavista de Cuellar,base.state_mx_gro
+ciudad_187,Chilapa de Álvarez,base.state_mx_gro
+ciudad_157,Chilpancingo de los Bravo,base.state_mx_gro
+ciudad_175,Ciudad Altamirano,base.state_mx_gro
+ciudad_172,Ciudad Apaxtla de Castrejón,base.state_mx_gro
+ciudad_193,Copala,base.state_mx_gro
+ciudad_185,Coyuca de Benítez,base.state_mx_gro
+ciudad_176,Coyuca de Catalán,base.state_mx_gro
+ciudad_192,Cruz Grande,base.state_mx_gro
+ciudad_196,Cuajinicuilapa,base.state_mx_gro
+ciudad_174,Cutzamala de Pinzón,base.state_mx_gro
+ciudad_188,Huamuxtitlan,base.state_mx_gro
+ciudad_165,Huitzuco,base.state_mx_gro
+ciudad_164,Iguala de la Independencia,base.state_mx_gro
+ciudad_177,La Unión,base.state_mx_gro
+ciudad_195,Marquelia,base.state_mx_gro
+ciudad_158,Ocotito,base.state_mx_gro
+ciudad_186,Olinalá,base.state_mx_gro
+ciudad_178,Petatlán,base.state_mx_gro
+ciudad_184,San Jerónimo de Juárez,base.state_mx_gro
+ciudad_191,San Luis Acatlán,base.state_mx_gro
+ciudad_182,San Luis de la Loma,base.state_mx_gro
+ciudad_181,San Luis San Pedro,base.state_mx_gro
+ciudad_163,San Marcos,base.state_mx_gro
+ciudad_168,Taxco de Alarcón,base.state_mx_gro
+ciudad_180,Técpan de Galeana,base.state_mx_gro
+ciudad_170,Teloloapan,base.state_mx_gro
+ciudad_166,Tepecoacuilco de Trujano,base.state_mx_gro
+ciudad_162,Tierra Colorada,base.state_mx_gro
+ciudad_159,Tixtla de Guerrero,base.state_mx_gro
+ciudad_190,Tlalixtaquilla,base.state_mx_gro
+ciudad_189,Tlapa de Comonfort,base.state_mx_gro
+ciudad_173,Tlapehuala,base.state_mx_gro
+ciudad_179,Zihuatanejo,base.state_mx_gro
+ciudad_167,Zumpango del Río,base.state_mx_gro
+ciudad_130,Abasolo,base.state_mx_gto
+ciudad_150,Acámbaro,base.state_mx_gto
+ciudad_148,Apaseo el Alto,base.state_mx_gto
+ciudad_140,Apaseo el Grande,base.state_mx_gto
+ciudad_138,Celaya,base.state_mx_gto
+ciudad_125,Ciudad Manuel Doblado,base.state_mx_gto
+ciudad_141,Comonfort,base.state_mx_gto
+ciudad_145,Cortazar,base.state_mx_gto
+ciudad_129,Cuerámaro,base.state_mx_gto
+ciudad_136,Doctor Mora,base.state_mx_gto
+ciudad_142,Empalme Escobedo (Escobedo),base.state_mx_gto
+ciudad_119,Guanajuato,base.state_mx_gto
+ciudad_131,Huanímaro,base.state_mx_gto
+ciudad_126,Irapuato,base.state_mx_gto
+ciudad_147,Jaral del Progreso,base.state_mx_gto
+ciudad_149,Jerécuaro,base.state_mx_gto
+ciudad_132,León de los Aldama,base.state_mx_gto
+ciudad_122,Marfil,base.state_mx_gto
+ciudad_152,Moroleón,base.state_mx_gto
+ciudad_128,Pénjamo,base.state_mx_gto
+ciudad_124,Purísima de Bustos,base.state_mx_gto
+ciudad_139,Rincón de Tamayo,base.state_mx_gto
+ciudad_121,Romita,base.state_mx_gto
+ciudad_127,Salamanca,base.state_mx_gto
+ciudad_153,Salvatierra,base.state_mx_gto
+ciudad_134,San Diego de la Unión,base.state_mx_gto
+ciudad_123,San Francisco del Rincón,base.state_mx_gto
+ciudad_137,San José Iturbide,base.state_mx_gto
+ciudad_135,San Luis de la Paz,base.state_mx_gto
+ciudad_133,San miguel de Allende,base.state_mx_gto
+ciudad_143,Santa Cruz Juventino Rosas,base.state_mx_gto
+ciudad_155,Santiago Maravatío,base.state_mx_gto
+ciudad_120,Silao,base.state_mx_gto
+ciudad_151,Tarandacuao,base.state_mx_gto
+ciudad_156,Uriangato,base.state_mx_gto
+ciudad_146,Valle de Santiago,base.state_mx_gto
+ciudad_144,Villagrán,base.state_mx_gto
+ciudad_154,Yuriria,base.state_mx_gto
+ciudad_200,Actopan,base.state_mx_hgo
+ciudad_209,Apan,base.state_mx_hgo
+ciudad_211,Ciudad de Fray Bernardino de Sahagún,base.state_mx_hgo
+ciudad_202,Cruz Azul,base.state_mx_hgo
+ciudad_205,Huejutla de Reyes,base.state_mx_hgo
+ciudad_198,Ixmiquilpan,base.state_mx_hgo
+ciudad_197,Pachuca de Soto,base.state_mx_hgo
+ciudad_207,Santiago Tulantepec,base.state_mx_hgo
+ciudad_210,Tepeapulco,base.state_mx_hgo
+ciudad_203,Tepeji del Rio,base.state_mx_hgo
+ciudad_208,Tizayuca,base.state_mx_hgo
+ciudad_204,Tlaxcoapan,base.state_mx_hgo
+ciudad_201,Tula de Allende,base.state_mx_hgo
+ciudad_206,Tulancingo,base.state_mx_hgo
+ciudad_199,Zimapan,base.state_mx_hgo
+ciudad_221,Acatlán de Juárez,base.state_mx_jal
+ciudad_234,Ahualulco de Mercado,base.state_mx_jal
+ciudad_226,Ajijic,base.state_mx_jal
+ciudad_233,Ameca,base.state_mx_jal
+ciudad_239,Arandas,base.state_mx_jal
+ciudad_250,Atotonilco el Alto,base.state_mx_jal
+ciudad_258,Autlán de Navarro,base.state_mx_jal
+ciudad_225,Chapala,base.state_mx_jal
+ciudad_260,Cihuatlán,base.state_mx_jal
+ciudad_261,Ciudad Guzmán,base.state_mx_jal
+ciudad_256,Cocula,base.state_mx_jal
+ciudad_229,Colotlán,base.state_mx_jal
+ciudad_257,El Grullo,base.state_mx_jal
+ciudad_220,El Quince (San José el Quince),base.state_mx_jal
+ciudad_232,Etzatlán,base.state_mx_jal
+ciudad_212,Guadalajara,base.state_mx_jal
+ciudad_228,Huejuquilla el Alto,base.state_mx_jal
+ciudad_236,Jalostotitlán,base.state_mx_jal
+ciudad_252,Jamay,base.state_mx_jal
+ciudad_224,Jocotepec,base.state_mx_jal
+ciudad_253,La Barca,base.state_mx_jal
+ciudad_259,La Resolana,base.state_mx_jal
+ciudad_245,Lagos de Moreno,base.state_mx_jal
+ciudad_218,Las Pintitas,base.state_mx_jal
+ciudad_231,Magdalena,base.state_mx_jal
+ciudad_251,Ocotlán,base.state_mx_jal
+ciudad_227,Poncitlán,base.state_mx_jal
+ciudad_255,Puerto Vallarta,base.state_mx_jal
+ciudad_247,San Diego de Alejandría,base.state_mx_jal
+ciudad_240,San Ignacio Cerro Gordo,base.state_mx_jal
+ciudad_219,San José el Verde (El Verde),base.state_mx_jal
+ciudad_235,San Juan de los Lagos,base.state_mx_jal
+ciudad_238,San Julián,base.state_mx_jal
+ciudad_237,San Miguel el Alto,base.state_mx_jal
+ciudad_262,Sayula,base.state_mx_jal
+ciudad_214,Tala,base.state_mx_jal
+ciudad_254,Talpa de Allende,base.state_mx_jal
+ciudad_264,Tamazula de Gordiano,base.state_mx_jal
+ciudad_266,Tecalitlán,base.state_mx_jal
+ciudad_241,Teocaltiche,base.state_mx_jal
+ciudad_248,Tepatitlán de Morelos,base.state_mx_jal
+ciudad_230,Tequila,base.state_mx_jal
+ciudad_217,Tlajomulco de Zúñiga,base.state_mx_jal
+ciudad_216,Tlaquepaque,base.state_mx_jal
+ciudad_215,Tonalá,base.state_mx_jal
+ciudad_249,Tototlán,base.state_mx_jal
+ciudad_265,Tuxpan,base.state_mx_jal
+ciudad_246,Unión de San Antonio,base.state_mx_jal
+ciudad_244,Valle de Guadalupe,base.state_mx_jal
+ciudad_222,Villa Corona,base.state_mx_jal
+ciudad_242,Villa Hidalgo,base.state_mx_jal
+ciudad_243,Yahualica de González Gallo,base.state_mx_jal
+ciudad_223,Zacoalco de Torres,base.state_mx_jal
+ciudad_213,Zapopan,base.state_mx_jal
+ciudad_263,Zapotiltic,base.state_mx_jal
+ciudad_268,Almoloya de Juárez,base.state_mx_mex
+ciudad_270,Amatepec,base.state_mx_mex
+ciudad_274,Capulhuac,base.state_mx_mex
+ciudad_298,Chalco de Díaz Covarrubias,base.state_mx_mex
+ciudad_293,Chiconcuac,base.state_mx_mex
+ciudad_294,Chimalhuacán,base.state_mx_mex
+ciudad_277,Ciudad Adolfo López Mateos,base.state_mx_mex
+ciudad_301,Ciudad Nezahualcoyotl,base.state_mx_mex
+ciudad_290,Coacalco de Berriozabal,base.state_mx_mex
+ciudad_283,Cuautitlán,base.state_mx_mex
+ciudad_282,Cuautitlán Izcalli,base.state_mx_mex
+ciudad_287,Ecatepec de Morelos,base.state_mx_mex
+ciudad_276,Huixquilucan de Degollado,base.state_mx_mex
+ciudad_297,Ixtapaluca,base.state_mx_mex
+ciudad_300,Juchitepec de Mariano Riva Palacio,base.state_mx_mex
+ciudad_296,Los Reyes Acaquilpan (La Paz),base.state_mx_mex
+ciudad_284,Melchor Ocampo,base.state_mx_mex
+ciudad_273,Metepec,base.state_mx_mex
+ciudad_278,Naucalpan de Juárez,base.state_mx_mex
+ciudad_275,Ocoyoacac,base.state_mx_mex
+ciudad_272,San Mateo Atenco,base.state_mx_mex
+ciudad_295,San Vicente Chicoloapan de Juárez,base.state_mx_mex
+ciudad_286,Santa Maria Tultepec,base.state_mx_mex
+ciudad_291,Tecamac de Felipe Villanueva,base.state_mx_mex
+ciudad_269,Tejupilco de Hidalgo,base.state_mx_mex
+ciudad_281,Tepotzotlán,base.state_mx_mex
+ciudad_289,Tequixquiac,base.state_mx_mex
+ciudad_292,Texcoco de Mora,base.state_mx_mex
+ciudad_279,Tlalnepantla de Baz,base.state_mx_mex
+ciudad_267,Toluca de Lerdo,base.state_mx_mex
+ciudad_285,Tultitlán de Mariano Escobedo,base.state_mx_mex
+ciudad_299,Valle de Chalco Solidaridad,base.state_mx_mex
+ciudad_280,Villa Nicolás Romero,base.state_mx_mex
+ciudad_271,Xonacatlán,base.state_mx_mex
+ciudad_288,Zumpango,base.state_mx_mex
+ciudad_318,Apatzingán de la Constitución,base.state_mx_mich
+ciudad_321,Ciudad Hidalgo,base.state_mx_mich
+ciudad_319,Ciudad Lázaro Cárdenas,base.state_mx_mich
+ciudad_314,Cotija de la Paz,base.state_mx_mich
+ciudad_305,Cuitzeo del Porvenir,base.state_mx_mich
+ciudad_324,Heroica Zitácuaro,base.state_mx_mich
+ciudad_328,Huetamo de Núñez,base.state_mx_mich
+ciudad_313,Jacona de Plancarte,base.state_mx_mich
+ciudad_310,Jiquilpan de Juárez,base.state_mx_mich
+ciudad_309,La piedad de Cabadas,base.state_mx_mich
+ciudad_320,Las Guacamayas,base.state_mx_mich
+ciudad_317,Los Reyes de Salgado,base.state_mx_mich
+ciudad_322,Maravatío de Ocampo,base.state_mx_mich
+ciudad_302,Morelia,base.state_mx_mich
+ciudad_327,Nueva Italia de Ruiz,base.state_mx_mich
+ciudad_316,Paracho de Verduzco,base.state_mx_mich
+ciudad_325,Pátzcuaro,base.state_mx_mich
+ciudad_303,Puruándiro,base.state_mx_mich
+ciudad_307,Sahuayo de Morelos,base.state_mx_mich
+ciudad_326,Tacámbaro de Codallos,base.state_mx_mich
+ciudad_312,Tangancícuaro de Arista,base.state_mx_mich
+ciudad_323,Tuxpan,base.state_mx_mich
+ciudad_315,Uruapan,base.state_mx_mich
+ciudad_308,Yurécuaro,base.state_mx_mich
+ciudad_304,Zacapu,base.state_mx_mich
+ciudad_311,Zamora de Hidalgo,base.state_mx_mich
+ciudad_306,Zinapécuaro de Figueroa,base.state_mx_mich
+ciudad_331,Cuautla (Cuautla de Morelos),base.state_mx_mor
+ciudad_329,Cuernavaca,base.state_mx_mor
+ciudad_334,Galeana,base.state_mx_mor
+ciudad_335,Jojutla,base.state_mx_mor
+ciudad_330,Puente de Ixtla,base.state_mx_mor
+ciudad_332,Santa Rosa Treinta,base.state_mx_mor
+ciudad_336,Tlaquiltenango,base.state_mx_mor
+ciudad_333,Zacatepec de Hidalgo,base.state_mx_mor
+ciudad_340,Acaponeta,base.state_mx_nay
+ciudad_353,Ahuacatlán,base.state_mx_nay
+ciudad_348,Bucerías,base.state_mx_nay
+ciudad_345,Compostela,base.state_mx_nay
+ciudad_342,Francisco I. Madero (Puga),base.state_mx_nay
+ciudad_354,Ixtlán del Río,base.state_mx_nay
+ciudad_352,Jala,base.state_mx_nay
+ciudad_347,La peñita de Jaltemba,base.state_mx_nay
+ciudad_346,Las Varas,base.state_mx_nay
+ciudad_344,Ruiz,base.state_mx_nay
+ciudad_349,San Blas,base.state_mx_nay
+ciudad_351,San pedro Lagunillas,base.state_mx_nay
+ciudad_339,Santiago Ixcuintla,base.state_mx_nay
+ciudad_341,Tecuala,base.state_mx_nay
+ciudad_337,Tepic,base.state_mx_nay
+ciudad_338,Tuxpan,base.state_mx_nay
+ciudad_343,Villa Hidalgo (El Nuevo),base.state_mx_nay
+ciudad_350,Xalisco,base.state_mx_nay
+ciudad_356,Anáhuac,base.state_mx_nl
+ciudad_369,Cadereyta Jiménez,base.state_mx_nl
+ciudad_358,Ciénega de Flores,base.state_mx_nl
+ciudad_364,Ciudad Apodaca,base.state_mx_nl
+ciudad_366,Ciudad Benito Juárez,base.state_mx_nl
+ciudad_360,Ciudad General Escobedo,base.state_mx_nl
+ciudad_357,Ciudad Sabinas Hidalgo,base.state_mx_nl
+ciudad_361,Ciudad Santa Catarina,base.state_mx_nl
+ciudad_373,Doctor Arroyo,base.state_mx_nl
+ciudad_368,El cercado,base.state_mx_nl
+ciudad_359,García,base.state_mx_nl
+ciudad_365,Guadalupe,base.state_mx_nl
+ciudad_372,Hualahuises,base.state_mx_nl
+ciudad_371,Linares,base.state_mx_nl
+ciudad_370,Montemorelos,base.state_mx_nl
+ciudad_355,Monterrey,base.state_mx_nl
+ciudad_363,San Nicolás de los Garza,base.state_mx_nl
+ciudad_362,San Pedro Garza García,base.state_mx_nl
+ciudad_367,Santiago,base.state_mx_nl
+ciudad_390,Asunción Nochixtlán,base.state_mx_oax
+ciudad_412,Bahias de Huatulco,base.state_mx_oax
+ciudad_399,Chahuites,base.state_mx_oax
+ciudad_395,Ciudad Ixtepec,base.state_mx_oax
+ciudad_380,Cosolapa,base.state_mx_oax
+ciudad_421,Cuilápam de Guerrero,base.state_mx_oax
+ciudad_405,El Camarón,base.state_mx_oax
+ciudad_420,El Rosario,base.state_mx_oax
+ciudad_423,Heroica Ciudad de Ejutla de Crespo,base.state_mx_oax
+ciudad_387,Heroica Ciudad de Huajuapan de León,base.state_mx_oax
+ciudad_393,Heroica Ciudad de Tlaxiaco,base.state_mx_oax
+ciudad_394,Juchitán (Juchitán de Zaragoza),base.state_mx_oax
+ciudad_401,Lagunas,base.state_mx_oax
+ciudad_379,Loma Bonita,base.state_mx_oax
+ciudad_388,Mariscala de Juárez,base.state_mx_oax
+ciudad_400,Matías Romero Avendaño,base.state_mx_oax
+ciudad_409,Miahuatlán de Porfirio Díaz,base.state_mx_oax
+ciudad_386,Natividad,base.state_mx_oax
+ciudad_374,Oaxaca de Juárez,base.state_mx_oax
+ciudad_424,Ocotlán de Morelos,base.state_mx_oax
+ciudad_430,Puerto Escondido,base.state_mx_oax
+ciudad_413,Putla Villa de Guerrero,base.state_mx_oax
+ciudad_429,Río Grande o Piedra Parada,base.state_mx_oax
+ciudad_406,Salina Cruz,base.state_mx_oax
+ciudad_418,San Antonio de la Cal,base.state_mx_oax
+ciudad_408,San Blas Atempa,base.state_mx_oax
+ciudad_382,San Felipe Jalapa de Díaz,base.state_mx_oax
+ciudad_397,San Francisco Ixhuatán,base.state_mx_oax
+ciudad_375,San Francisco Telixtlahuaca,base.state_mx_oax
+ciudad_385,San Juan Bautista Cuicatlán,base.state_mx_oax
+ciudad_427,San Juan Bautista lo de Soto,base.state_mx_oax
+ciudad_378,San Juan Bautista Tuxtepec,base.state_mx_oax
+ciudad_383,San Juan Bautista Valle Nacional,base.state_mx_oax
+ciudad_426,San Juan Cacahuatepec,base.state_mx_oax
+ciudad_414,San Miguel el Grande,base.state_mx_oax
+ciudad_376,San Pablo Huitzo,base.state_mx_oax
+ciudad_403,San Pablo Villa de Mitla,base.state_mx_oax
+ciudad_431,San Pedro Mixtepec -Dto. 22-,base.state_mx_oax
+ciudad_410,San Pedro Pochutla,base.state_mx_oax
+ciudad_398,San Pedro Tapanatepec,base.state_mx_oax
+ciudad_404,San Pedro Totolapa,base.state_mx_oax
+ciudad_392,San Sebastián Tecomaxtlahuaca,base.state_mx_oax
+ciudad_415,Santa Cruz Itundujia,base.state_mx_oax
+ciudad_417,Santa Lucia del Camino,base.state_mx_oax
+ciudad_411,Santa María Huatulco,base.state_mx_oax
+ciudad_428,Santiago Jamiltepec,base.state_mx_oax
+ciudad_391,Santiago Juxtlahuaca,base.state_mx_oax
+ciudad_425,Santiago Pinotepa Nacional,base.state_mx_oax
+ciudad_377,Santiago Suchilquitongo,base.state_mx_oax
+ciudad_407,Santo Domingo Tehuantepec,base.state_mx_oax
+ciudad_384,Teotitlán de Flores Magón,base.state_mx_oax
+ciudad_402,Tlacolula de Matamoros,base.state_mx_oax
+ciudad_396,Unión Hidalgo,base.state_mx_oax
+ciudad_381,Vicente Camalote,base.state_mx_oax
+ciudad_389,Villa de Tamazulápam del Progreso,base.state_mx_oax
+ciudad_419,Villa de Zaachila,base.state_mx_oax
+ciudad_422,Villa Sola de Vega,base.state_mx_oax
+ciudad_416,Zimatlán de Álvarez,base.state_mx_oax
+ciudad_444,Acatlán de Osorio,base.state_mx_pue
+ciudad_436,Amozoc,base.state_mx_pue
+ciudad_442,Atlixco,base.state_mx_pue
+ciudad_447,Ciudad Serdán,base.state_mx_pue
+ciudad_433,Cuautlancingo,base.state_mx_pue
+ciudad_438,Huauchinango,base.state_mx_pue
+ciudad_443,Izúcar de Matamoros,base.state_mx_pue
+ciudad_432,Puebla (Heroica Puebla),base.state_mx_pue
+ciudad_435,San Andrés Cholula,base.state_mx_pue
+ciudad_441,San Martín Texmelucan de Labastida,base.state_mx_pue
+ciudad_434,San Pedro Cholula,base.state_mx_pue
+ciudad_446,Tecamachalco,base.state_mx_pue
+ciudad_448,Tehuacan,base.state_mx_pue
+ciudad_445,Tepeaca,base.state_mx_pue
+ciudad_440,Teziutlan,base.state_mx_pue
+ciudad_437,Xicotepec,base.state_mx_pue
+ciudad_439,Zacatlán,base.state_mx_pue
+ciudad_459,Bacalar,base.state_mx_qro
+ciudad_456,Cancún,base.state_mx_qro
+ciudad_452,Chetumal,base.state_mx_qro
+ciudad_457,Cozumel,base.state_mx_qro
+ciudad_451,El Pueblito,base.state_mx_qro
+ciudad_453,Felipe Carrillo Puerto,base.state_mx_qro
+ciudad_455,Isla Mujeres,base.state_mx_qro
+ciudad_454,Kantunilkín,base.state_mx_qro
+ciudad_458,Playa del Carmen,base.state_mx_qro
+ciudad_449,Querétaro,base.state_mx_qro
+ciudad_450,San Juan del Rio,base.state_mx_qro
+ciudad_481,Aguaruto,base.state_mx_sin
+ciudad_489,Ahome,base.state_mx_sin
+ciudad_493,Angostura,base.state_mx_sin
+ciudad_494,Choix,base.state_mx_sin
+ciudad_485,Cosalá,base.state_mx_sin
+ciudad_480,Culiacán Rosales,base.state_mx_sin
+ciudad_502,El rosario,base.state_mx_sin
+ciudad_500,Escuinapa de Hidalgo,base.state_mx_sin
+ciudad_497,Estación Naranjo,base.state_mx_sin
+ciudad_492,Guamúchil,base.state_mx_sin
+ciudad_487,Guasave,base.state_mx_sin
+ciudad_490,Higuera de Zaragoza,base.state_mx_sin
+ciudad_501,La Cruz,base.state_mx_sin
+ciudad_483,Lic. Benito Juárez (Campo Gobierno),base.state_mx_sin
+ciudad_488,Los Mochis,base.state_mx_sin
+ciudad_498,Mazatlán,base.state_mx_sin
+ciudad_486,Mocorito,base.state_mx_sin
+ciudad_482,Navolato,base.state_mx_sin
+ciudad_484,Quila,base.state_mx_sin
+ciudad_495,San Blas,base.state_mx_sin
+ciudad_503,San Ignacio,base.state_mx_sin
+ciudad_496,Sinaloa de Leyva,base.state_mx_sin
+ciudad_491,Topolobampo,base.state_mx_sin
+ciudad_499,Villa Unión,base.state_mx_sin
+ciudad_471,Cárdenas,base.state_mx_slp
+ciudad_462,Cedral,base.state_mx_slp
+ciudad_472,Cerritos,base.state_mx_slp
+ciudad_463,Charcas,base.state_mx_slp
+ciudad_470,Ciudad del Maíz,base.state_mx_slp
+ciudad_466,Ciudad Valles,base.state_mx_slp
+ciudad_467,Ébano,base.state_mx_slp
+ciudad_469,El Naranjo,base.state_mx_slp
+ciudad_477,Fracción el Refugio,base.state_mx_slp
+ciudad_465,Matehuala,base.state_mx_slp
+ciudad_476,Rioverde,base.state_mx_slp
+ciudad_464,Salinas de Hidalgo,base.state_mx_slp
+ciudad_460,San Luis Potosí,base.state_mx_slp
+ciudad_474,Santa María del Río,base.state_mx_slp
+ciudad_461,Soledad de Graciano Sánchez,base.state_mx_slp
+ciudad_478,Tamasopo,base.state_mx_slp
+ciudad_479,Tamazunchale,base.state_mx_slp
+ciudad_468,Tamuin,base.state_mx_slp
+ciudad_475,Tierra Nueva,base.state_mx_slp
+ciudad_473,Villa de Reyes,base.state_mx_slp
+ciudad_511,Agua Prieta,base.state_mx_son
+ciudad_513,Ciudad Obregón,base.state_mx_son
+ciudad_514,Empalme,base.state_mx_son
+ciudad_504,Hermosillo,base.state_mx_son
+ciudad_508,Heroica Caborca,base.state_mx_son
+ciudad_512,Heroica Ciudad de Cananea,base.state_mx_son
+ciudad_515,Heroica Guaymas,base.state_mx_son
+ciudad_509,Heroica Nogales,base.state_mx_son
+ciudad_517,Huatabampo,base.state_mx_son
+ciudad_510,Magdalena de Kino,base.state_mx_son
+ciudad_516,Navojoa,base.state_mx_son
+ciudad_506,Puerto Peñasco,base.state_mx_son
+ciudad_505,San Luis Río Colorado,base.state_mx_son
+ciudad_507,Sonoita,base.state_mx_son
+ciudad_52,Allende,base.state_mx_tab
+ciudad_40,Arteaga,base.state_mx_tab
+ciudad_522,Cárdenas,base.state_mx_tab
+ciudad_44,Castaños,base.state_mx_tab
+ciudad_48,Ciudad Acuña,base.state_mx_tab
+ciudad_49,Ciudad Melchor Múzquiz,base.state_mx_tab
+ciudad_520,Comalcalco,base.state_mx_tab
+ciudad_59,Cuatro Ciénegas de Carranza,base.state_mx_tab
+ciudad_524,Cunduacán,base.state_mx_tab
+ciudad_528,Emiliano Zapata,base.state_mx_tab
+ciudad_61,Francisco I. Madero (Chávez),base.state_mx_tab
+ciudad_42,Frontera,base.state_mx_tab
+ciudad_521,Huimanguillo,base.state_mx_tab
+ciudad_519,Jalpa de Méndez,base.state_mx_tab
+ciudad_525,Macuspana,base.state_mx_tab
+ciudad_56,Matamoros,base.state_mx_tab
+ciudad_43,Monclova,base.state_mx_tab
+ciudad_51,Morelos,base.state_mx_tab
+ciudad_58,Nadadores,base.state_mx_tab
+ciudad_47,Nava,base.state_mx_tab
+ciudad_54,Nueva Rosita,base.state_mx_tab
+ciudad_523,Paraíso,base.state_mx_tab
+ciudad_62,Parras de la Fuente,base.state_mx_tab
+ciudad_46,Piedras Negras,base.state_mx_tab
+ciudad_45,Ramos Arizpe,base.state_mx_tab
+ciudad_53,Sabinas,base.state_mx_tab
+ciudad_39,Saltillo,base.state_mx_tab
+ciudad_41,San Buenaventura,base.state_mx_tab
+ciudad_60,San Pedro,base.state_mx_tab
+ciudad_526,Teapa,base.state_mx_tab
+ciudad_527,Tenosique de Pino Suárez,base.state_mx_tab
+ciudad_55,Torreón,base.state_mx_tab
+ciudad_57,Viesca,base.state_mx_tab
+ciudad_518,Villahermosa,base.state_mx_tab
+ciudad_50,Zaragoza,base.state_mx_tab
+ciudad_552,Apizaco,base.state_mx_tlax
+ciudad_551,Calpulalpan,base.state_mx_tlax
+ciudad_554,Chiautempan,base.state_mx_tlax
+ciudad_553,Huamantla,base.state_mx_tlax
+ciudad_550,Tlaxcala (Tlaxcala de Xicotencatl),base.state_mx_tlax
+ciudad_555,Villa Vicente Guerrero,base.state_mx_tlax
+ciudad_545,Altamira,base.state_mx_tamps
+ciudad_540,Ciudad Camargo,base.state_mx_tamps
+ciudad_539,Ciudad Gustavo Díaz Ordaz,base.state_mx_tamps
+ciudad_544,Ciudad Madero,base.state_mx_tamps
+ciudad_549,Ciudad Mante,base.state_mx_tamps
+ciudad_537,Ciudad Miguel Alemán,base.state_mx_tamps
+ciudad_542,Ciudad Río Bravo,base.state_mx_tamps
+ciudad_534,Ciudad Tula,base.state_mx_tamps
+ciudad_529,Ciudad Victoria,base.state_mx_tamps
+ciudad_547,Estación Manuel (Úrsulo Galván),base.state_mx_tamps
+ciudad_546,González,base.state_mx_tamps
+ciudad_530,Heroica Matamoros,base.state_mx_tamps
+ciudad_535,Jaumave,base.state_mx_tamps
+ciudad_538,Nueva Ciudad Guerrero,base.state_mx_tamps
+ciudad_536,Nuevo Laredo,base.state_mx_tamps
+ciudad_541,Reynosa,base.state_mx_tamps
+ciudad_532,San Fernando,base.state_mx_tamps
+ciudad_533,Soto la Marina,base.state_mx_tamps
+ciudad_543,Tampico,base.state_mx_tamps
+ciudad_531,Valle Hermoso,base.state_mx_tamps
+ciudad_548,Xicoténcatl,base.state_mx_tamps
+ciudad_614,Acayucan,base.state_mx_ver
+ciudad_619,Agua dulce,base.state_mx_ver
+ciudad_579,Altotonga,base.state_mx_ver
+ciudad_599,Alvarado,base.state_mx_ver
+ciudad_611,Ángel R. Cabada,base.state_mx_ver
+ciudad_594,Atoyac,base.state_mx_ver
+ciudad_557,Banderilla,base.state_mx_ver
+ciudad_584,Boca del RÍo,base.state_mx_ver
+ciudad_602,Carlos A. Carrillo,base.state_mx_ver
+ciudad_613,Catemaco,base.state_mx_ver
+ciudad_572,Cazones de Herrera,base.state_mx_ver
+ciudad_568,Cerro Azul,base.state_mx_ver
+ciudad_558,Coatepec,base.state_mx_ver
+ciudad_618,Coatzacoalcos,base.state_mx_ver
+ciudad_573,Coatzintla,base.state_mx_ver
+ciudad_588,Córdoba,base.state_mx_ver
+ciudad_603,Cosamaloapan,base.state_mx_ver
+ciudad_616,Cosoleacaque,base.state_mx_ver
+ciudad_617,Cuichapa,base.state_mx_ver
+ciudad_592,Cuitláhuac,base.state_mx_ver
+ciudad_567,El Higo,base.state_mx_ver
+ciudad_587,Fortín de las Flores,base.state_mx_ver
+ciudad_595,General Miguel Alemán (Potrero Nuevo),base.state_mx_ver
+ciudad_576,Gutiérrez Zamora,base.state_mx_ver
+ciudad_582,Huatusco de Chicuellar,base.state_mx_ver
+ciudad_569,Huayacocotla,base.state_mx_ver
+ciudad_591,Huiloapan de Cuauhtémoc,base.state_mx_ver
+ciudad_606,Isla,base.state_mx_ver
+ciudad_586,Ixtaczoquitlán,base.state_mx_ver
+ciudad_615,Jáltipan de Morelos,base.state_mx_ver
+ciudad_560,José Cardel,base.state_mx_ver
+ciudad_612,Juan Díaz Covarrubias,base.state_mx_ver
+ciudad_607,Juan Rodríguez Clara,base.state_mx_ver
+ciudad_621,Las Choapas,base.state_mx_ver
+ciudad_600,Lerdo de Tejada,base.state_mx_ver
+ciudad_620,Minatitlán,base.state_mx_ver
+ciudad_566,Naranjos,base.state_mx_ver
+ciudad_589,Nogales,base.state_mx_ver
+ciudad_585,Orizaba,base.state_mx_ver
+ciudad_581,Pánuco,base.state_mx_ver
+ciudad_575,Papantla de Olarte,base.state_mx_ver
+ciudad_593,Paraje Nuevo,base.state_mx_ver
+ciudad_559,Paso de Ovejas,base.state_mx_ver
+ciudad_596,Paso del Macho,base.state_mx_ver
+ciudad_565,Platón Sánchez,base.state_mx_ver
+ciudad_605,Playa Vicente,base.state_mx_ver
+ciudad_574,Poza Rica de Hidalgo,base.state_mx_ver
+ciudad_590,Río Blanco,base.state_mx_ver
+ciudad_608,San Andrés Tuxtla,base.state_mx_ver
+ciudad_577,San Rafael,base.state_mx_ver
+ciudad_610,Santiago Tuxtla,base.state_mx_ver
+ciudad_609,Sihuapan,base.state_mx_ver
+ciudad_583,Soledad de Doblado,base.state_mx_ver
+ciudad_562,Tampico Alto,base.state_mx_ver
+ciudad_564,Tantoyuca,base.state_mx_ver
+ciudad_563,Tempoal de Sánchez,base.state_mx_ver
+ciudad_597,Tezonapa,base.state_mx_ver
+ciudad_598,Tierra Blanca,base.state_mx_ver
+ciudad_571,Tihuatlán,base.state_mx_ver
+ciudad_604,Tlacojalpan,base.state_mx_ver
+ciudad_578,Tlapacoyan,base.state_mx_ver
+ciudad_601,Tres Valles,base.state_mx_ver
+ciudad_570,Túxpam de Rodríguez Cano,base.state_mx_ver
+ciudad_561,Veracruz,base.state_mx_ver
+ciudad_556,Xalapa-Enríquez,base.state_mx_ver
+ciudad_580,Yecuatla,base.state_mx_ver
+ciudad_622,Mérida,base.state_mx_yuc
+ciudad_623,Motul de Carrillo Puerto,base.state_mx_yuc
+ciudad_626,Ticul,base.state_mx_yuc
+ciudad_624,Tizimín,base.state_mx_yuc
+ciudad_625,Valladolid,base.state_mx_yuc
+ciudad_633,Ciudad Cuauhtémoc,base.state_mx_zac
+ciudad_638,Fresnillo,base.state_mx_zac
+ciudad_632,Guadalupe,base.state_mx_zac
+ciudad_643,Jalpa,base.state_mx_zac
+ciudad_641,Jerez de García Salinas,base.state_mx_zac
+ciudad_628,Juan Aldama,base.state_mx_zac
+ciudad_636,Loreto,base.state_mx_zac
+ciudad_635,Luis Moya,base.state_mx_zac
+ciudad_645,Moyahua de Estrada,base.state_mx_zac
+ciudad_644,Nochistlán de Mejía,base.state_mx_zac
+ciudad_634,Ojocaliente,base.state_mx_zac
+ciudad_629,Río Grande,base.state_mx_zac
+ciudad_639,Sombrerete,base.state_mx_zac
+ciudad_640,Valparaíso,base.state_mx_zac
+ciudad_631,Víctor Rosales,base.state_mx_zac
+ciudad_630,Villa de Cos,base.state_mx_zac
+ciudad_637,Villa Hidalgo,base.state_mx_zac
+ciudad_642,Villanueva,base.state_mx_zac
+ciudad_627,Zacatecas,base.state_mx_zac
